@@ -1,0 +1,4 @@
+
+#hexdumped the file
+
+inctf{s0_y0u_f0und_th3_h1dd3n_str1ng}
